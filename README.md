@@ -367,6 +367,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Phonemos](https://www.phonemos.com/) 🇨🇭 - Another European alternative to Notion.
 - [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution.
 - [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.
+- [Stacks](https://getstacksapp.com/) 🇮🇹 - A private and self-hosted project management tool that helps you keep track of your tasks, projects, and team members.
 
 ### Quantum Computing
 - [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
