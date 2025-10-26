@@ -433,6 +433,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Manitu](https://www.manitu.de/) 🇩🇪
 - [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
 - [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
+- [MVPS](https://www.mvps.net) 🇨🇾
 - [netcup](https://www.netcup.eu) 🇩🇪
 - [OVHcloud](https://www.ovhcloud.com/en/vps/) 🇫🇷
 - [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
