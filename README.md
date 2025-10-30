@@ -418,6 +418,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [AlphaVPS](https://www.alphavps.com) 🇧🇬
 - [Alwyzon](https://www.alwyzon.com/en/virtual-servers) 🇦🇹
 - [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
+- [Berohost](https://bero-host.de) 🇩🇪
 - [Avoro](https://avoro.eu/en/vps) 🇩🇪
 - [Cloudify](https://cloudify.ro) 🇷🇴
 - [Clouding.io](https://clouding.io) 🇪🇸
