@@ -439,6 +439,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
 - [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 - [Scaleway](https://www.scaleway.com) 🇫🇷
+- [skhron.eu](https://skhron.eu/services) 🇵🇱 🇸🇪
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [TLDHost](https://www.tldhost.de/) 🇩🇪
