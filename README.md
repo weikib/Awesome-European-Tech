@@ -419,6 +419,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Alwyzon](https://www.alwyzon.com/en/virtual-servers) 🇦🇹
 - [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
 - [Avoro](https://avoro.eu/en/vps) 🇩🇪
+- [Bacloud](https://www.bacloud.com/en/linux-kvm-vps-hosting) 🇱🇹 🇳🇱
 - [Cloudify](https://cloudify.ro) 🇷🇴
 - [Clouding.io](https://clouding.io) 🇪🇸
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
