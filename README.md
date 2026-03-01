@@ -440,6 +440,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [OVHcloud](https://www.ovhcloud.com/en/vps/) 🇫🇷
 - [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
 - [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
+- [servercheap](https://servercheap.com/vps/) 🇺🇸
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [skhron.eu](https://skhron.eu/services) 🇵🇱 🇸🇪
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
