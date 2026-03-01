@@ -424,6 +424,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Clouding.io](https://clouding.io) 🇪🇸
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
 - [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
+- (George Datacenter)[https://www.georgedatacenter.com/cheapvps.php] 🇺🇸
 - [Gigas](https://gigas.com/cloud-vps) 🇪🇸
 - [Ginernet](https://ginernet.com) 🇪🇸
 - [GleSYS](https://glesys.se/) 🇸🇪
