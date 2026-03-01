@@ -428,6 +428,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Ginernet](https://ginernet.com) 🇪🇸
 - [GleSYS](https://glesys.se/) 🇸🇪
 - [Hetzner](https://www.hetzner.com) 🇩🇪
+- [hosthatch](https://hosthatch.com/products) 🇨🇭 🇯🇵 🇳🇴
 - [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 - [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 - [Krystal](https://krystal.io/) 🇬🇧
