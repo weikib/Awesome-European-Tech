@@ -443,6 +443,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [servercheap](https://servercheap.com/vps/) 🇺🇸
 - [Scaleway](https://www.scaleway.com) 🇫🇷
 - [skhron.eu](https://skhron.eu/services) 🇵🇱 🇸🇪
+- [skrime](https://skrime.eu/server/order#xeon) 🇳🇱
 - [Suble.io](https://suble.io/en/vps) 🇩🇰
 - [Tilaa](https://www.tilaa.com) 🇳🇱
 - [TLDHost](https://www.tldhost.de/) 🇩🇪
